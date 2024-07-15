@@ -158,7 +158,7 @@ def top_up(jumlah):
     global saldo_pelanggan
     saldo_pelanggan += jumlah
     print(f"Saldo berhasil ditambahkan. Saldo sekarang: Rp {saldo_pelanggan}")
-5
+
 # Fungsi 6 Update Stok
 def update_stok():
     tampilkan_inventory() # Menampilkan inventory
